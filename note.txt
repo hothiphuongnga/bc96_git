@@ -40,3 +40,4 @@ c: conflict
 git checkout  : đi đến lần commit nào đó , đi đến main/ master
 branch : nhánh
 123 123
+hello cybersoft
